@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "firstName": "umang",
+      "lastName": "gfncfgc",
+      "email": "umang123@gmail.com",
+      "mobile": "654654654",
+      "salary": "200"
+    },
+    {
+      "id": 4,
+      "firstName": "umang",
+      "lastName": "Gupta",
+      "email": "umang123@gmail.com",
+      "mobile": "6564654654",
+      "salary": "5565"
+    }
+  ],
+  "signupUsers": [
+    {
+      "name": "Umang",
+      "email": "umang123@gmail.com",
+      "mobile": 13435436546,
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "Umang",
+      "email": "umang123@gmail.com",
+      "mobile": 7676876,
+      "password": "ghgvgv",
+      "id": 2
+    },
+    {
+      "name": "Umang",
+      "email": "test@g.com",
+      "mobile": 123456789,
+      "password": "123456",
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
